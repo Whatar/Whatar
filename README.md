@@ -4,7 +4,7 @@ About me
 - I am developed an android app for dentists https://play.google.com/store/apps/details?id=com.dreamwaves.yoursmile
 - I am a junior developer for www.filosoft.it
 
-Things that I think I know:
+My experience:
 - Python 4/5
 - Java 3/5
 - C++ 2/5
