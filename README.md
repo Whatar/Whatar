@@ -6,10 +6,8 @@ About me
 
 My experience:
 - Python 4/5
+- Ruby on rails 4/5
 - Java 3/5
-- C++ 2/5
 - Unreal Engine 3/5
-- Premiere Pro 3/5
+- C++ 2/5
 - Android 2/5
-- Ruby on rails 2/5
-- Photoshop 1/5
